@@ -7,3 +7,4 @@ return filtered
 if __name__ == "__main__":
   sample_notes = [{"title": "Git Hooks Guide", "tag": "VCS"}, {"title": "Java OOP Basics", "tag": "OOPS"}]
 filter_notes_by_tag(sample_notes, "VCS")
+# Bugfix in search filter
